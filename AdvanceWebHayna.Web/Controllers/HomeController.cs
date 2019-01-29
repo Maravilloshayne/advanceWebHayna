@@ -48,7 +48,7 @@ namespace AdvanceWebHayna.Web.Controllers
             result.PageCount = pageCount;
             result.PageSize = pageSize;
             result.QueryCount = queryCount;
-            result.CurrentPage = pageIndex;
+            result.PageIndex = pageIndex;
 
 
             return View(new IndexViewModel()

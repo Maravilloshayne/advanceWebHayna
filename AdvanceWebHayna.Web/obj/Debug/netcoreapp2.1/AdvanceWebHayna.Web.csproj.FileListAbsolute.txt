@@ -32,3 +32,14 @@ C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\D
 C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\AdvanceWebHayna.Web.csproj.CopyComplete
 C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
 C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\UpdateProfile.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Category\Create.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Category\UpdateTitle.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Category\UpdateDescription.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Category\UpdatePrice.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\UpdateTitle.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\UpdateDescription.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BlogWithWidgets.g.cshtml.cs
+C:\Users\Shayne Maravillo\source\repos\AdvanceWebHayna\AdvanceWebHayna.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PublicLayout.g.cshtml.cs

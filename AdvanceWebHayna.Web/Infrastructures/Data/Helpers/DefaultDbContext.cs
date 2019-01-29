@@ -16,6 +16,8 @@ namespace AdvanceWebHayna.Web.Infrastructures.Data.Helpers
         }
         #region Models
         public DbSet<User> Users { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
         #endregion
 
 
